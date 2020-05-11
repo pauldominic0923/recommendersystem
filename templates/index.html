@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<title>MJO4 RECOMMENDATION</title>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script> -->
+<script src="{{url_for('static', filename='index.js')}}"></script>
+<!-- <script src="{{url_for('static', filename='sendData.js')}}"></script> -->
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script> -->
+
+<style>
+  body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+  .myLink {display: none}
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.w3-display-container:hover .image {
+  opacity: 0.3;
+}
+.w3-display-container:hover .middle {
+  opacity: 1;
+}
+.text {
+  background-color: #ff0000;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  display: inherit;
+}
+.slidecontainer {
+  width: 100%;
+}
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+.slider:hover {
+  opacity: 1;
+}
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #ff0000;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #ff0000;
+  cursor: pointer;
+}
+.column {
+  float: left;
+  width: 15%;
+  padding: 0;
+  border-right: 2px solid #ff0000;
+}
+.column1 {
+  float: left;
+  width: 22%;
+  padding-left: 15px;
+}
+.lastcolumn{
+  float:right;
+  width: 30%;
+  padding: 0;
+}
+.w3-display-bottommiddle {
+  bottom: 5px;
+}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+  <a href="#" class="w3-bar-item w3-button w3-text-red w3-hover-red">
+    <b>
+      <i class="fa fa-spinner w3-margin-right"></i>Styles
+    </b>
+  </a>
+  <a name="location" id="location" class="w3-right w3-bar-item w3-hover-red w3-button w3-text-grey"></a>
+  <a name="temperature" id="temperature" class="w3-bar-item w3-text-grey w3-right"></a>
+  <a name="icon" id="icon" class="w3-bar-item w3-right">
+    <img id="svg-img" src="" class="svg" height="40" vertical-align="middle" width="40">
+  </a>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-hide-small" style="max-width:1500px">
+  <img class="w3-image" src="https://www.levi.com/wp-content/uploads/2018/11/Header.jpg" alt="London" width="1500" height="700">
+  <div class="w3-display-middle" style="width:65%">
+    <div class="w3-bar w3-black">
+      <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Recommendation');"><i class="fa fa-shirtsinbulk w3-margin-right"></i>Recommendation</button>
+   
+    </div>
+
+    <!-- Tabs -->
+    <div id="Recommendation" class="w3-container w3-white w3-padding-16 myLink">
+      <h3>Filter</h3>
+      <div><h4>Categories</h4>
+        <form>
+          <div class="column">
+           <input type="checkbox" id="gender1" name="gender1" value="Men"><label for="vehicle1">Men</label><br>
+           <input type="checkbox" id="gender2" name="gender2" value="Women"><label for="gender2">Women</label><br>
+           <input type="checkbox" id="gender3" name="gender3" value="Unisex"><label for="gender3">Unisex</label><br><br>
+          </div>
+          <div class="column1">
+           <input type="checkbox" id="cat1" name="cat1" value="Activewear"><label for="cat1">Activewear</label><br>
+           <input type="checkbox" id="cat2" name="cat2" value="Blazers/Coats/Jackets"><label for="cat2">Blazers/Coats/Jackets</label><br>
+           <input type="checkbox" id="cat3" name="cat3" value="Dresses"><label for="cat3">Dresses</label><br>
+           <input type="checkbox" id="cat4" name="cat4" value="Dress-Shirts"><label for="cat4">Dress-Shirts</label><br>
+           <input type="checkbox" id="cat5" name="cat5" value="Jeans/Denim"><label for="cat5">Jeans/Denim</label><br>
+           <input type="checkbox" id="cat6" name="cat6" value="Pants"><label for="cat6">Pants</label><br><br>
+          </div> 
+          <div class="column1">
+           <input type="checkbox" id="cat7" name="cat7" value="Polo-Shirts"><label for="cat7">Polo-Shirts</label><br>
+           <input type="checkbox" id="cat8" name="cat8" value="Tops/TShirts/Tanktops"><label for="cat8">Tops/TShirts/Tanktops</label><br>
+           <input type="checkbox" id="cat9" name="cat9" value="Shorts"><label for="cat9">Shorts</label><br>
+           <input type="checkbox" id="cat10" name="cat10" value="Sweaters"><label for="cat10">Sweaters</label><br>
+           <input type="checkbox" id="cat11" name="cat11" value="Sweatshirts/Hoodies"><label for="cat11">Sweatshirts/Hoodies</label><br><br>
+          </div> 
+        </form>
+      </div>
+   
+      <div class="lastcolumn">
+        <div data-role="rangeslider">
+          <label for="price-min">Price:</label>
+          <input type="range" name="price-min" id="price-min" value="200" min="0" max="1500">
+          <label for="price-max">Price:</label>
+          <input type="range" name="price-max" id="price-max" value="900" min="0" max="1500">
+        </div><br><br>
+        <div class="slidecontainer">
+          <input type="range" min="0" max="1" value="0.5" step=".1" class="slider" id="myRange">
+            <span style="text-align:left">Rating</span><span style="float:right;">Discount</span>
+            <p>Value: <span id="num"></span></p>
+            <script>
+              var slider = document.getElementById("myRange");
+              var output = document.getElementById("num");
+              output.innerHTML = slider.value;
+
+              slider.oninput = function() {
+              output.innerHTML = this.value;
+              }
+            </script></div>
+      </div> 
+      <input type="submit" data-inline="true" value="Search" class="w3-display-bottommiddle">
+    </div>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px;">
+
+  <!-- Trending -->
+  <div class="w3-container w3-margin-top">
+    <h3 name="recommendation" id="recommendation">Our recommendations</h3>
+  </div>
+  <div class="w3-row-padding w3-text-white w3-large">
+    <div class="w3-third w3-margin-bottom">
+      <div class="w3-display-container">
+        <img id= "img0" src="" class="image" style="width:100%">
+           <div class="middle">
+            <a id="name0" class="text" href="" target="_blank"></a>
+          </div>
+      </div>
+      <span class="w3-display-bottomleft w3-padding"></span>
+    </div>
+    <div class="w3-third">
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img id= "img1" src="" class="image" style="width:100%">
+            <div class="middle">
+            <a id="name1" class="text" href="" target="_blank"></a>
+          </div>
+            <span class="w3-display-bottomleft w3-padding"></span>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img id= "img2" src="" class="image" style="width:100%">
+            <div class="middle">
+            <a id="name2"class="text" href="" target="_blank"></a>
+          </div>
+            <span class="w3-display-bottomleft w3-padding"></span>
+          </div>
+        </div>
+      </div>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img id= "img3" src="" class="image" style="width:100%">
+            <div class="middle">
+            <a id="name3" class="text" href="" target="_blank"></a>
+          </div>
+            <span class="w3-display-bottomleft w3-padding"></span>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img id= "img4" src="" class="image" style="width:100%">
+            <div class="middle">
+            <a id="name4" class="text" href="" target="_blank"></a>
+          </div>
+            <span class="w3-display-bottomleft w3-padding"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="w3-third w3-margin-bottom">
+      <div class="w3-display-container">
+        <img id= "img5" src="" class="image" style="width:100%">
+           <div class="middle">
+            <a id="name5" class="text" href="" target="_blank"></a>
+          </div>
+      </div>
+      <span class="w3-display-bottomleft w3-padding"></span>
+    </div>
+    <button class="w3-button w3-padding-large w3-black" style="margin: auto;display: block;">VIEW MORE</button>
+  </div>
+
+  
+  <!-- Contact -->
+  <div class="w3-container">
+    <h2>Contact</h2>
+    <p>Let us pick your next outfit!</p>
+    <i class="fa fa-map-marker" style="width:30px"></i> Toronto, CA<br>
+    <i class="fa fa-envelope" style="width:30px"> </i> Email: mail@mail.com<br>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Email" required name="Email"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message" required name="Message"></p>
+      <p><button class="w3-button w3-black w3-padding-large" type="submit">SEND MESSAGE</button></p>
+    </form>
+  </div>
+  
+<!-- End page content -->
+</div>
+</body>
+<script src="{{url_for('static', filename='tracking.js')}}"></script>
+<!-- <script src="{{url_for('static', filename='location.js')}}"></script> -->
+<script src="{{url_for('static', filename='fakeLocation.js')}}"></script>
+</html>

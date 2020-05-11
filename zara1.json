@@ -1,0 +1,3018 @@
+{"clothing":  [
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04303528.html",
+        "id": "0"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED TEXTURED WEAVE JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-textured-weave-jacket-p05501543.html",
+        "id": "1"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04301500.html",
+        "id": "2"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID TEXTURED STRETCH SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-textured-stretch-suit-jacket-p04251588.html",
+        "id": "3"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID TEXTURED WEAVE STRETCH SUIT VEST",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-textured-weave-stretch-suit-vest-p04252588.html",
+        "id": "4"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED STRETCH SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-stretch-suit-jacket-p00706470.html",
+        "id": "5"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED STRETCH SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-stretch-suit-jacket-p00706470.html",
+        "id": "6"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "7"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "8"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID STRETCH KNIT DOUBLE BREASTED BLAZER",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-stretch-knit-double-breasted-blazer-p04090518.html",
+        "id": "9"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED STRETCH SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-stretch-suit-jacket-p04284735.html",
+        "id": "10"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p04217519.html",
+        "id": "11"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p09621473.html",
+        "id": "12"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p09621473.html",
+        "id": "13"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID STRETCH KNIT DOUBLE BREASTED BLAZER",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-stretch-knit-double-breasted-blazer-p04090518.html",
+        "id": "14"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID STRETCH KNIT SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-stretch-knit-suit-jacket-p04193518.html",
+        "id": "15"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED STRETCH KNIT SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-stretch-knit-suit-jacket-p00706442.html",
+        "id": "16"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p04193529.html",
+        "id": "17"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-suit-jacket-p00706476.html",
+        "id": "18"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-stretch-sheen-suit-jacket-p01564403.html",
+        "id": "19"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TUXEDO JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tuxedo-jacket-p01564360.html",
+        "id": "20"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TRAVELER SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/traveler-suit-jacket-p09621450.html",
+        "id": "21"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TRAVELER SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/traveler-suit-jacket-p09621450.html",
+        "id": "22"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SUIT VEST WITH SHEEN",
+        "gender": "MALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-suit-vest-with-sheen-p01564402.html",
+        "id": "23"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SUIT VEST WITH SHEEN",
+        "gender": "MALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-suit-vest-with-sheen-p01564402.html",
+        "id": "24"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-stretch-sheen-suit-jacket-p01564403.html",
+        "id": "25"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-suit-jacket-p00706688.html",
+        "id": "26"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-suit-jacket-p00706476.html",
+        "id": "27"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "RELAXED FIT PLAID BLAZER",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/relaxed-fit-plaid-blazer-p04148605.html",
+        "id": "28"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-textured-suit-jacket-p01564450.html",
+        "id": "29"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PLAID WAISTCOAT",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-waistcoat-p01564452.html",
+        "id": "30"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "31"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "32"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "33"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "34"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "35"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-sheen-suit-jacket-p00706100.html",
+        "id": "36"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED TEXTURED WEAVE JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-textured-weave-jacket-p04090500.html",
+        "id": "37"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED TEXTURED WEAVE JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-textured-weave-jacket-p04090500.html",
+        "id": "38"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04024500.html",
+        "id": "39"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04024500.html",
+        "id": "40"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04024500.html",
+        "id": "41"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED STRETCH SHEEN SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-stretch-sheen-suit-jacket-p01564403.html",
+        "id": "42"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-suit-jacket-p04024500.html",
+        "id": "43"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED TWO-TONE BLAZER",
+        "gender": "MALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-two-tone-blazer-p01608410.html",
+        "id": "44"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED TWO-TONE BLAZER",
+        "gender": "MALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-two-tone-blazer-p01608410.html",
+        "id": "45"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED TWO-TONE BLAZER",
+        "gender": "MALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-two-tone-blazer-p01608410.html",
+        "id": "46"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p09621473.html",
+        "id": "47"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p09621473.html",
+        "id": "48"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p09621473.html",
+        "id": "49"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED STRETCH KNIT SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-stretch-knit-suit-jacket-p00706442.html",
+        "id": "50"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED WEAVE BIRDSEYE SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-weave-birdseye-suit-jacket-p01564420.html",
+        "id": "51"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TEXTURED WEAVE BIRDSEYE SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/textured-weave-birdseye-suit-jacket-p01564420.html",
+        "id": "52"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "BIRDSEYE TEXTURED WEAVE WAISTCOAT",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/birdseye-textured-weave-waistcoat-p01564422.html",
+        "id": "53"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TRAVELER SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/traveler-suit-jacket-p09621450.html",
+        "id": "54"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "TRAVELER SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/traveler-suit-jacket-p09621450.html",
+        "id": "55"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "BASIC TEXTURED WEAVE BLAZER",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/basic-textured-weave-blazer-p01608400.html",
+        "id": "56"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "BASIC TEXTURED WEAVE BLAZER",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/basic-textured-weave-blazer-p01608400.html",
+        "id": "57"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "BASIC TEXTURED WEAVE BLAZER",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/basic-textured-weave-blazer-p01608400.html",
+        "id": "58"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "BASIC TEXTURED WEAVE BLAZER",
+        "gender": "MALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/basic-textured-weave-blazer-p01608400.html",
+        "id": "59"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PIQUÉ BLAZER",
+        "gender": "MALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/piqu%C3%A9-blazer-p00706433.html",
+        "id": "60"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PIQUÉ BLAZER",
+        "gender": "MALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/piqu%C3%A9-blazer-p00706433.html",
+        "id": "61"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "RELAXED FIT PLAID BLAZER",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/relaxed-fit-plaid-blazer-p04148605.html",
+        "id": "62"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "DOUBLE BREASTED SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/double-breasted-suit-jacket-p00706688.html",
+        "id": "63"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "STRETCH KNIT TEXTURED SUIT JACKET",
+        "gender": "MALE",
+        "price": "139.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-knit-textured-suit-jacket-p04217519.html",
+        "id": "64"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "NEON SUIT JACKET",
+        "gender": "MALE",
+        "price": "159.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/neon-suit-jacket-p00706685.html",
+        "id": "65"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "HIGH COLLAR BLAZER",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-collar-blazer-p00706659.html",
+        "id": "66"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PERFORATED PRINT SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/perforated-print-suit-jacket-p07380630.html",
+        "id": "67"
+      },
+      {
+        "category": "BLAZERS",
+        "name": "PERFORATED PRINT SUIT JACKET",
+        "gender": "MALE",
+        "price": "119.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/perforated-print-suit-jacket-p07380630.html",
+        "id": "68"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-midi-skirt-p08372046.html",
+        "id": "69"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-midi-skirt-p08372046.html",
+        "id": "70"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SLIT DENIM SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/slit-denim-skirt-p06164079.html",
+        "id": "71"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HIGH-WAISTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-waisted-shorts-p04886252.html",
+        "id": "72"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HIGH-WAISTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-waisted-shorts-p04886252.html",
+        "id": "73"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HIGH-WAISTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-waisted-shorts-p07149046.html",
+        "id": "74"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HIGH-WAISTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-waisted-shorts-p07149046.html",
+        "id": "75"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GEOMETRIC PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/geometric-print-skirt-p02518237.html",
+        "id": "76"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-midi-skirt-p02488003.html",
+        "id": "77"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p08558547.html",
+        "id": "78"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL JACQUARD SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-jacquard-shorts-p07149050.html",
+        "id": "79"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-mini-skirt-p09006062.html",
+        "id": "80"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED SKIRT WITH SLITS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-skirt-with-slits-p01618021.html",
+        "id": "81"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-midi-skirt-p08372046.html",
+        "id": "82"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ASYMMETRIC BOX PLEAT SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/asymmetric-box-pleat-skirt-p02489878.html",
+        "id": "83"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUCHED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruched-mini-skirt-p02636488.html",
+        "id": "84"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p02472915.html",
+        "id": "85"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/midi-skirt-p05644203.html",
+        "id": "86"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED MINI SKIRT WITH RUFFLES",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-mini-skirt-with-ruffles-p07563058.html",
+        "id": "87"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-skort-p02492020.html",
+        "id": "88"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRAP SKIRT WITH POCKET",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrap-skirt-with-pocket-p02686413.html",
+        "id": "89"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DRAPED PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/draped-pencil-skirt-p02625402.html",
+        "id": "90"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p02426916.html",
+        "id": "91"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-pencil-skirt-p02595483.html",
+        "id": "92"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "KNIT MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/knit-midi-skirt-p01822014.html",
+        "id": "93"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p02426916.html",
+        "id": "94"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH BELT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-belt-p02469399.html",
+        "id": "95"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-skirt-p09479057.html",
+        "id": "96"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LONG SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/long-shorts-p02424878.html",
+        "id": "97"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-skirt-p05644035.html",
+        "id": "98"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-skirt-p05644035.html",
+        "id": "99"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "POLKA DOT MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/polka-dot-mini-skirt-p02772907.html",
+        "id": "100"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLOWY PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/flowy-print-skirt-p02157041.html",
+        "id": "101"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-skort-p02492021.html",
+        "id": "102"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED RUFFLED SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-ruffled-shorts-p07521046.html",
+        "id": "103"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "STRAIGHT CUT SHORTS",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/straight-cut-shorts-p02700703.html",
+        "id": "104"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GINGHAM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/gingham-mini-skirt-p00219310.html",
+        "id": "105"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GINGHAM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/gingham-mini-skirt-p00219310.html",
+        "id": "106"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-mini-skirt-p02667658.html",
+        "id": "107"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-pleated-skirt-p03067161.html",
+        "id": "108"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-pleated-skirt-p03067161.html",
+        "id": "109"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p02472915.html",
+        "id": "110"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-tulle-skirt-p05039420.html",
+        "id": "111"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WAXED EFFECT SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/waxed-effect-shorts-p07385181.html",
+        "id": "112"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DENIM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/denim-mini-skirt-p08197281.html",
+        "id": "113"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH POCKETS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-pockets-p05427151.html",
+        "id": "114"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL DRAPED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-draped-mini-skirt-p02344637.html",
+        "id": "115"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-mini-skirt-p02304635.html",
+        "id": "116"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MOM FIT DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mom-fit-denim-shorts-p08197005.html",
+        "id": "117"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MOM FIT DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mom-fit-denim-shorts-p08197005.html",
+        "id": "118"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-skirt-p07385352.html",
+        "id": "119"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-mini-skirt-p02650105.html",
+        "id": "120"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "121"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "122"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "123"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUCHED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruched-mini-skirt-p07385184.html",
+        "id": "124"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUCHED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruched-mini-skirt-p07385184.html",
+        "id": "125"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUCHED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruched-mini-skirt-p07385180.html",
+        "id": "126"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MOM FIT DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mom-fit-denim-shorts-p08197005.html",
+        "id": "127"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MOM FIT DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mom-fit-denim-shorts-p08197005.html",
+        "id": "128"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MOM FIT DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mom-fit-denim-shorts-p08197005.html",
+        "id": "129"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "130"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "131"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HI-RISE DENIM SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/hi-rise-denim-shorts-p08197006.html",
+        "id": "132"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-midi-skirt-p02721799.html",
+        "id": "133"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-knit-skirt-p09874011.html",
+        "id": "134"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-print-skirt-p04043049.html",
+        "id": "135"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ZW PREMIUM ’80S ACID WASH SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/zw-premium-%E2%80%9980s-acid-wash-shorts-p08246053.html",
+        "id": "136"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-midi-skirt-p06416151.html",
+        "id": "137"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/shorts-p05039416.html",
+        "id": "138"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p08372043.html",
+        "id": "139"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ZW PREMIUM ’70S MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/zw-premium-%E2%80%9970s-midi-skirt-p06164077.html",
+        "id": "140"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DENIM PATCHWORK MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/denim-patchwork-mini-skirt-p05899075.html",
+        "id": "141"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLOWY SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/flowy-skirt-p00264166.html",
+        "id": "142"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUCHED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruched-midi-skirt-p07385172.html",
+        "id": "143"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "POLKA DOT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/polka-dot-skirt-p04661156.html",
+        "id": "144"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-knit-skirt-p05536014.html",
+        "id": "145"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "COMBINATION DENIM SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/combination-denim-skirt-p05899071.html",
+        "id": "146"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL PRINT MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-print-mini-skirt-p02644245.html",
+        "id": "147"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLOWY SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/flowy-shorts-p04661155.html",
+        "id": "148"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DENIM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/denim-mini-skirt-p08197090.html",
+        "id": "149"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DENIM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/denim-mini-skirt-p08197090.html",
+        "id": "150"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-skirt-p05644416.html",
+        "id": "151"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-skirt-p05644416.html",
+        "id": "152"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT STRIPED SHORTS",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-striped-shorts-p02878410.html",
+        "id": "153"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLOWY SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/flowy-skirt-p00264166.html",
+        "id": "154"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ANIMAL PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/animal-print-skirt-p02492055.html",
+        "id": "155"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED DRAPED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-draped-skirt-p09878075.html",
+        "id": "156"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-knit-skirt-p09874006.html",
+        "id": "157"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p03666067.html",
+        "id": "158"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "JACQUARD MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/jacquard-mini-skirt-p03666075.html",
+        "id": "159"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-satin-effect-skirt-p04387032.html",
+        "id": "160"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL PRINTED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-printed-skirt-p02561241.html",
+        "id": "161"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-shorts-p08073046.html",
+        "id": "162"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-pleated-skirt-p02486148.html",
+        "id": "163"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-shorts-p02527153.html",
+        "id": "164"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FLORAL MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/floral-mini-skirt-p02155146.html",
+        "id": "165"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-shorts-p02503169.html",
+        "id": "166"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "KNIT MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/knit-midi-skirt-p06254019.html",
+        "id": "167"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-mini-skirt-p02878052.html",
+        "id": "168"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tulle-skirt-p05039312.html",
+        "id": "169"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI BALLOON SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-balloon-skirt-p07385162.html",
+        "id": "170"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH POCKETS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-pockets-p04432157.html",
+        "id": "171"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-midi-skirt-p09479058.html",
+        "id": "172"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-skirt-p09479057.html",
+        "id": "173"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p02969068.html",
+        "id": "174"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-pencil-skirt-p07563064.html",
+        "id": "175"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED KNITWEAR SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-knitwear-skirt-p02142008.html",
+        "id": "176"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED DRAPED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-draped-skirt-p09878075.html",
+        "id": "177"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LONG PAREO SHORTS",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/long-pareo-shorts-p02423878.html",
+        "id": "178"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-skirt-p02192911.html",
+        "id": "179"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-skirt-p02192911.html",
+        "id": "180"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "CAPE SKIRT",
+        "gender": "FEMALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/cape-skirt-p02476779.html",
+        "id": "181"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p09878064.html",
+        "id": "182"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FULL MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/full-midi-skirt-p05854027.html",
+        "id": "183"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-skort-p02369150.html",
+        "id": "184"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WOOL BLEND PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wool-blend-pencil-skirt-p05536021.html",
+        "id": "185"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-faux-leather-skirt-p03046097.html",
+        "id": "186"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SEAM DETAIL LONG SHORTS",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/seam-detail-long-shorts-p02558460.html",
+        "id": "187"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BOW MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/bow-mini-skirt-p03440050.html",
+        "id": "188"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-midi-skirt-p09479056.html",
+        "id": "189"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PANEL PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/panel-pleated-skirt-p07102163.html",
+        "id": "190"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "QUILTED SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/quilted-shorts-p04391159.html",
+        "id": "191"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH POCKETS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-pockets-p04432157.html",
+        "id": "192"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-midi-skirt-p07149047.html",
+        "id": "193"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "STRETCH MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/stretch-mini-skirt-p04786080.html",
+        "id": "194"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX SUEDE PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "35.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-suede-print-skirt-p02712160.html",
+        "id": "195"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-midi-skirt-p05107048.html",
+        "id": "196"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-midi-skirt-p05107048.html",
+        "id": "197"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VOLUMINOUS MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/voluminous-midi-skirt-p07149047.html",
+        "id": "198"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "199.00",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/leather-shorts-p00190023.html",
+        "id": "199"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ACCENTUATED SEAM DETAIL SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/accentuated-seam-detail-shorts-p04387031.html",
+        "id": "200"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DENIM MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/denim-midi-skirt-p09951030.html",
+        "id": "201"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT SKIRT WITH KNOT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-skirt-with-knot-p09878070.html",
+        "id": "202"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELT LOOP SHORTS",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belt-loop-shorts-p02179703.html",
+        "id": "203"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-knit-skirt-p09667004.html",
+        "id": "204"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-pleated-skirt-p02367248.html",
+        "id": "205"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p02969045.html",
+        "id": "206"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p02969047.html",
+        "id": "207"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ACCENTUATED SEAM DETAIL SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/accentuated-seam-detail-shorts-p04387031.html",
+        "id": "208"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "DRAPED DOTTED SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/draped-dotted-skirt-p09878071.html",
+        "id": "209"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED SKIRT WITH BELT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-skirt-with-belt-p02328789.html",
+        "id": "210"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LONG SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/long-shorts-p02424878.html",
+        "id": "211"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-skirt-p02969243.html",
+        "id": "212"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p02969278.html",
+        "id": "213"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pencil-skirt-p08574021.html",
+        "id": "214"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BUTTONED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/buttoned-skort-p09640021.html",
+        "id": "215"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "CABLE KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/cable-knit-skirt-p03859015.html",
+        "id": "216"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SIDE RIBBED KNIT SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/side-ribbed-knit-shorts-p06873005.html",
+        "id": "217"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p07102253.html",
+        "id": "218"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-satin-effect-skirt-p03067255.html",
+        "id": "219"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-mini-skirt-p07385173.html",
+        "id": "220"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GINGHAM PLAID SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/gingham-plaid-skirt-p04661154.html",
+        "id": "221"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p02969044.html",
+        "id": "222"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p04886072.html",
+        "id": "223"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-mini-skirt-p02180438.html",
+        "id": "224"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-knit-skirt-p09874008.html",
+        "id": "225"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "99.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/leather-mini-skirt-p05479005.html",
+        "id": "226"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p02177225.html",
+        "id": "227"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HOUNDSTOOTH MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/houndstooth-mini-skirt-p06416150.html",
+        "id": "228"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MIDI SKIRT WITH BUTTONS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/midi-skirt-with-buttons-p07901161.html",
+        "id": "229"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-faux-leather-skirt-p07102160.html",
+        "id": "230"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SATIN EFFECT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/satin-effect-skirt-p09878069.html",
+        "id": "231"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GINGHAM SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/gingham-skort-p01165028.html",
+        "id": "232"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-skirt-p02502144.html",
+        "id": "233"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04786045.html",
+        "id": "234"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04786296.html",
+        "id": "235"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04886278.html",
+        "id": "236"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "WRINKLE LOOK SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/wrinkle-look-skirt-p04886072.html",
+        "id": "237"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-mini-skirt-p04432155.html",
+        "id": "238"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "POCKET PAPERBAG SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pocket-paperbag-skirt-p07102162.html",
+        "id": "239"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p04432152.html",
+        "id": "240"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p07901150.html",
+        "id": "241"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pencil-skirt-p03513052.html",
+        "id": "242"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-faux-leather-skirt-p08574022.html",
+        "id": "243"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-faux-leather-mini-skirt-p02454451.html",
+        "id": "244"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH DARTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-darts-p02155703.html",
+        "id": "245"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p02969053.html",
+        "id": "246"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04786045.html",
+        "id": "247"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-skort-p01165029.html",
+        "id": "248"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "GINGHAM SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/gingham-skort-p01165028.html",
+        "id": "249"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED DENIM SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-denim-skirt-p09951022.html",
+        "id": "250"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p07901160.html",
+        "id": "251"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p05427150.html",
+        "id": "252"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-skort-p01165023.html",
+        "id": "253"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-skort-p01165026.html",
+        "id": "254"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p02969057.html",
+        "id": "255"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "A-LINE SUIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/a-line-suit-skirt-p00264006.html",
+        "id": "256"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "A-LINE SUIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/a-line-suit-skirt-p00264006.html",
+        "id": "257"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p08372032.html",
+        "id": "258"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-knit-skirt-p09667004.html",
+        "id": "259"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-midi-skirt-p02969049.html",
+        "id": "260"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p02969278.html",
+        "id": "261"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04886278.html",
+        "id": "262"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-pleated-skirt-p04786296.html",
+        "id": "263"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p04432153.html",
+        "id": "264"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pencil-skirt-p08574021.html",
+        "id": "265"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HOUNDSTOOTH MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/houndstooth-mini-skirt-p08842439.html",
+        "id": "266"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pencil-skirt-p08574021.html",
+        "id": "267"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-midi-skirt-p03046041.html",
+        "id": "268"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-print-skirt-p09878063.html",
+        "id": "269"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ANIMAL PRINT PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/animal-print-pleated-skirt-p06050151.html",
+        "id": "270"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX FUR SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-fur-skirt-p09919002.html",
+        "id": "271"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-leather-skirt-p04369049.html",
+        "id": "272"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BELTED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/belted-shorts-p02414295.html",
+        "id": "273"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "CABLE KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/cable-knit-skirt-p03859015.html",
+        "id": "274"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-knit-skirt-p09598035.html",
+        "id": "275"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ZW PREMIUM ’80S SKIRT IN ACID BLACK",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/zw-premium-%E2%80%9980s-skirt-in-acid-black-p08246051.html",
+        "id": "276"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ZW PREMIUM ’80S ACID WASH SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/zw-premium-%E2%80%9980s-acid-wash-shorts-p08246053.html",
+        "id": "277"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT WITH METALLIC THREAD",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-with-metallic-thread-p09479283.html",
+        "id": "278"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p02303161.html",
+        "id": "279"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PRINTED KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/printed-knit-skirt-p05755013.html",
+        "id": "280"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "CABLE KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/cable-knit-skirt-p09667005.html",
+        "id": "281"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-tulle-skirt-p01014401.html",
+        "id": "282"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p04432153.html",
+        "id": "283"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-skort-p02369150.html",
+        "id": "284"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SIDE RIBBED KNIT SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/side-ribbed-knit-shorts-p06873005.html",
+        "id": "285"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MINI SKIRT WITH DARTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/mini-skirt-with-darts-p02155703.html",
+        "id": "286"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p08558547.html",
+        "id": "287"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-shorts-p08558547.html",
+        "id": "288"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p08372031.html",
+        "id": "289"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PEARL TRIM TWEED SHORTS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pearl-trim-tweed-shorts-p09598012.html",
+        "id": "290"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SPECIAL EDITION PAREO SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/special-edition-pareo-skirt-p05755016.html",
+        "id": "291"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pencil-skirt-p02969040.html",
+        "id": "292"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-midi-skirt-p02969042.html",
+        "id": "293"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-skirt-p02192911.html",
+        "id": "294"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FULL MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/full-midi-skirt-p05854027.html",
+        "id": "295"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SEAM DETAIL LONG SHORTS",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/seam-detail-long-shorts-p02558460.html",
+        "id": "296"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p02969068.html",
+        "id": "297"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RIBBED MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ribbed-midi-skirt-p02488003.html",
+        "id": "298"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p02303161.html",
+        "id": "299"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "KNIT SKIRT WITH PIPING",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/knit-skirt-with-piping-p03597004.html",
+        "id": "300"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MIDI PINAFORE DRESS WITH BUTTONS",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/midi-pinafore-dress-with-buttons-p08788547.html",
+        "id": "301"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "LONG PLAID SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/long-plaid-shorts-p01165024.html",
+        "id": "302"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BOW SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/bow-shorts-p02271583.html",
+        "id": "303"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-skirt-p02969243.html",
+        "id": "304"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID KNIT SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-knit-skirt-p08146002.html",
+        "id": "305"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SHORTS",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-shorts-p04661151.html",
+        "id": "306"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "ANIMAL PRINT SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/animal-print-skirt-p07102157.html",
+        "id": "307"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "MIDI SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/midi-skirt-p02274036.html",
+        "id": "308"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-pencil-skirt-p03068040.html",
+        "id": "309"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-p09878157.html",
+        "id": "310"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-mini-skirt-p05427150.html",
+        "id": "311"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-skirt-p04530150.html",
+        "id": "312"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "FAUX LEATHER PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/faux-leather-pleated-skirt-p03046025.html",
+        "id": "313"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-pencil-skirt-p03068040.html",
+        "id": "314"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "KNIT MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/knit-mini-skirt-p03390004.html",
+        "id": "315"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "KNIT PENCIL SKIRT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/knit-pencil-skirt-p06873009.html",
+        "id": "316"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p04886068.html",
+        "id": "317"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p04886068.html",
+        "id": "318"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED HEM MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-hem-mini-skirt-p02004230.html",
+        "id": "319"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-skirt-p04530150.html",
+        "id": "320"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "RUFFLED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/ruffled-skort-p08687583.html",
+        "id": "321"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HIGH WAISTED SHORTS",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/high-waisted-shorts-p08525230.html",
+        "id": "322"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLAID PLEATED TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/plaid-pleated-tulle-skirt-p04786082.html",
+        "id": "323"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED SKORT",
+        "gender": "FEMALE",
+        "price": "45.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-skort-p04369047.html",
+        "id": "324"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "HOUNDSTOOTH PLEATED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/houndstooth-pleated-skirt-p04886047.html",
+        "id": "325"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED PLAID SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-plaid-skirt-p02761055.html",
+        "id": "326"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "SWISS DOT TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/swiss-dot-tulle-skirt-p02731045.html",
+        "id": "327"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "METALLIC THREAD TWEED SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/metallic-thread-tweed-skirt-p09479040.html",
+        "id": "328"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "TWEED MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/tweed-mini-skirt-p04886045.html",
+        "id": "329"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "VELVET MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/velvet-mini-skirt-p05344040.html",
+        "id": "330"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKIRT WITH METALLIC THREAD",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skirt-with-metallic-thread-p09479282.html",
+        "id": "331"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "POLKA DOT TULLE SKIRT",
+        "gender": "FEMALE",
+        "price": "79.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/polka-dot-tulle-skirt-p02731056.html",
+        "id": "332"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "PLEATED SKORT",
+        "gender": "FEMALE",
+        "price": "39.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/pleated-skort-p08741029.html",
+        "id": "333"
+      },
+      {
+        "category": "SKIRTS",
+        "name": "BOX PLEAT MINI SKIRT",
+        "gender": "FEMALE",
+        "price": "49.90",
+        "sale": "NO",
+        "link": "https://www.zara.com/ca/en/box-pleat-mini-skirt-p02761054.html",
+        "id": "334"
+      }
+    ]
+}
